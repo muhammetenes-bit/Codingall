@@ -1,20 +1,42 @@
-# Discord-Bot-Dashboard
-Simple Discord dashboard of different pages
-# Bot Dashboaard
-A sample responsive website for your Discord bot
+# Discord Bot Website
 
-# Demo: https://grim-musics.grimreaper007.repl.co/
+🚀 **HTML-based website for managing and interacting with your Discord bot**  
+This project provides a simple and user-friendly interface to control and get information about your Discord bot directly from the web.
 
-I have spent a lot of time doing this, so I would really appreciate if you would leave me a star.
+## Features
 
-You can else visit my youtube: 😁
+- 🤖 **Bot Information**: Display bot’s status, uptime, and activity.
+- 💬 **Command List**: Show all available bot commands with descriptions and examples.
+- ⚙️ **Real-time Bot Status**: Get live updates on your bot’s performance and status.
+- 🛠️ **Bot Configuration**: Easily manage and configure your bot through the website interface.
+  
+## Installation
 
-Thank you and have a nice day/afternoon/night
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/discord-bot-website.git
+    ```
 
-## Info
+2. Navigate to the project folder:
+    ```bash
+    cd discord-bot-website
+    ```
 
-Author: KAJUKATLIii
-License: MIT License
-Time working: About 5 hours
-Made using: HTML5, CSS3, JavaScript
-Text Editor: Repl.it
+3. Open the `index.html` file in your browser to start interacting with the bot.
+
+## Usage
+
+- Use the interface to view bot status and activity.
+- Check available commands and their usage.
+- Modify bot settings directly through the web interface.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork this repo and create pull requests for bug fixes, new features, or improvements. 
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature-name`)
+5. Open a pull request
+
