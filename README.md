@@ -20,7 +20,7 @@ I'm always looking to learn new things and create innovative projects. I enjoy w
 ## 🔗 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/muhammet-ayd%C4%B1nl%C4%B1-46498333a/)
-- [Twitter](https://x.com/ayd_muhamm30635))
+- [Twitter](https://x.com/ayd_muhamm30635)
 - [Email](muhammetxx310@gmail.com)
 
 Feel free to check out my repositories and contribute to any project you're interested in. I’m always open to collaboration!
